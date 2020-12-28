@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"db",
+				"db_index"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"draw",
+				"draw_frame_size"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"cw",
+				"cw_orders"
+			],
+			[
+				"CW_",
+				"cw_vendor_code_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/zx/im/myshop/manage.py",
+		"/home/zx/im/myshop/shop/models.py",
+		"/home/zx/im/myshop/myshop/settings.py",
+		"/home/zx/fla/app_dir/sketch/frame_sections.py",
+		"/home/zx/fla/app_dir/sketch/evolushion_03.py",
+		"/home/zx/fla/app_dir/sketch/sketch_config.py",
+		"/home/zx/fla/fla.txt",
+		"/home/zx/fla/app_dir/sketch/test_drive.py",
+		"/home/zx/fla/reserve/forte_10.py",
+		"/home/zx/fla/app_dir/templates/cw/order.html",
+		"/home/zx/fla/app_dir/sketch/routes.py",
+		"/home/zx/fla/app_dir/sketch/cw_sketch_manager.py",
+		"/home/zx/fla/app_dir/sketch/sketch_manager.py",
+		"/home/zx/fla/app_dir/templates/order/order.html",
+		"/home/zx/fla/app_dir/templates/cw/scetch_button.html",
+		"/home/zx/fla/app_dir/cw/routes.py",
+		"/home/zx/fla/app_dir/templates/cw/position_table.html",
+		"/home/zx/fla/app_dir/cw/forms.py",
+		"/home/zx/fla/app_dir/order/forms.py",
+		"/home/zx/fla/app_dir/templates/cw/order_add_position.html",
+		"/home/zx/fla/app_dir/main/routes.py",
+		"/home/zx/fla/app_dir/templates/cw/script_load_vendor_code_name.html",
+		"/home/zx/fla/app_dir/main/forms.py",
+		"/home/zx/fla/app_dir/models.py",
+		"/home/zx/fla/app_dir/templates/cw/position_form.html",
+		"/home/zx/fla/app_dir/templates/order/script_load_decor.html",
+		"/home/zx/fla/app_dir/order/routes.py",
+		"/home/zx/fla/app_dir/templates/cw/position_edit.html",
+		"/home/zx/fla/app_dir/templates/cw/script_load_vendor_code.html",
+		"/home/zx/fla/app_dir/templates/order/position_edit.html",
+		"/home/zx/fla/app_dir/templates/cw/order_table.html",
+		"/home/zx/fla/app_dir/templates/_formhelpers_inline.html",
+		"/home/zx/fla/app_dir/templates/base.html",
+		"/home/zx/fla/app_dir/new_elements/the_first_data.py",
+		"/home/zx/fla/app_dir/auth/routes.py",
+		"/home/zx/fla/app_dir/templates/cw/orders_list.html",
+		"/home/zx/fla/app_dir/__init__.py",
+		"/home/zx/fla/migrations/versions/e084d13bab3b_add_primer_decor.py",
+		"/home/zx/fla/app_dir/cw/__init__.py",
+		"/home/zx/fla/app_dir/order/__init__.py",
+		"/home/zx/fla/app_dir/templates/order/order_add_position.html",
+		"/home/zx/fla/app_dir/new_elements/routes.py",
+		"/home/zx/fla/README.md",
+		"/home/zx/fla/app_dir/templates/new_elements/decor.html",
+		"/home/zx/fla/app_dir/templates/new_elements/door_model.html",
+		"/home/zx/fla/app_dir/new_elements/forms.py",
+		"/home/zx/fla/app_dir/templates/index.html",
+		"/home/zx/fla/app_dir/templates/order/order_form.html",
+		"/home/zx/fla/app_dir/templates/order/order_table.html",
+		"/home/zx/fla/app_dir/templates/order/order_remark_form.html",
+		"/home/zx/fla/app_dir/templates/order/order_remark_edit.html",
+		"/home/zx/fla/app_dir/templates/order/order_remark_add.html",
+		"/home/zx/fla/app_dir/templates/order/scetch_button.html",
+		"/home/zx/fla/app_dir/templates/order/position_table.html",
+		"/home/zx/fla/app_dir/templates/order/position_form.html",
+		"/home/zx/fla/app_dir/templates/order/orders_list.html",
+		"/home/zx/.config/sublime-text-3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/zx/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/zx/fla/app_dir/templates/errors/500.html",
+		"/home/zx/fla/app_dir/templates/errors/404.html",
+		"/home/zx/fla/runner.py",
+		"/home/zx/fla/app_dir/sketch/__init__.py",
+		"/home/zx/fla/app_dir/main/utils.py",
+		"/home/zx/fla/app_dir/main/__init__.py",
+		"/home/zx/fla/app_dir/routes.py",
+		"/home/zx/fla/app_dir/forms.py",
+		"/home/zx/fla/app_dir/the_first_data.py",
+		"/home/zx/fla/app_dir/errors.py",
+		"/home/zx/fla/app_dir/templates/order_table.html",
+		"/home/zx/fla/app_dir/templates/404.html",
+		"/home/zx/fla/app_dir/templates/500.html",
+		"/home/zx/fla/app_dir/templates/order.html",
+		"/home/zx/fla/app_dir/templates/scetch_button.html",
+		"/home/zx/fla/app_dir/templates/position_form.html",
+		"/home/zx/fla/app_dir/templates/order_add_position.html",
+		"/home/zx/fla/app_dir/templates/position_table.html",
+		"/home/zx/fla/app_dir/templates/position.html",
+		"/home/zx/fla/app_dir/templates/position_edit.html",
+		"/home/zx/fla/app_dir/templates/orders.html",
+		"/home/zx/fla/app_dir/templates/new_order.html",
+		"/home/zx/fla/app_dir/utils.py",
+		"/home/zx/fla/app_dir/templates/_if_none_table.html",
+		"/home/zx/fla/app_dir/templates/_formhelpers.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"perymetr",
+			"    ctx.",
+			"Карка",
+			"карка",
+			"d",
+			"d * CM",
+			"    ctx.move_to(2.1 * CM, 5 * CM)\n    ctx.show_text(\"Каркас\")\n    ctx.set_font_size(10)\n    ctx.move_to(2.1 * CM, 4 * CM)\n    ctx.show_text(\"(грязн)\")",
+			"th rowspan=\"2\" class",
+			"int",
+			"edit",
+			"remark",
+			"order",
+			"first",
+			"order",
+			"render_if_none",
+			"hr",
+			"td>с",
+			"sort_both",
+			"}}\n                </td>",
+			"<td>\n                    {{",
+			"casings_id",
+			"\n        ",
+			"locks_purpose_id",
+			"<th>",
+			" class=\"text-center\"",
+			"order"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    self.ctx.",
+			"d * CM",
+			"th class",
+			"}}</td>",
+			"<td>{{",
+			"<th class=\"text-center\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
